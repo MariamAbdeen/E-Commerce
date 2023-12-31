@@ -1,0 +1,12 @@
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

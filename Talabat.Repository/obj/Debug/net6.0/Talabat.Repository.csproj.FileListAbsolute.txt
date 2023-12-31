@@ -1,0 +1,17 @@
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.runtimeconfig.json
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.genruntimeconfig.cache
+D:\Backend\Export Projects\Youmna\E-Commerce-Asp.Net--Web-API-\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
